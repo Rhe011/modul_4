@@ -123,6 +123,7 @@ while True:
 print("Total Pembayaran Anda: Rp", total_pembayaran)
 print()
 jenis = input("Masukkan jenis pembayaran: ")
+print()
 
 print(60*'=')
 bgk2 = 'Terima Kasih Telah Berbelanja'
