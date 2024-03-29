@@ -121,3 +121,11 @@ while True:
         print("Tidak ada dalam pilihan")
 
 print("Total Pembayaran Anda: Rp", total_pembayaran)
+print()
+jenis = input("Masukkan jenis pembayaran: ")
+
+print(60*'=')
+bgk2 = 'Terima Kasih Telah Berbelanja'
+print(bgk2.center(60))
+print(60*'=')
+print()
