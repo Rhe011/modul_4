@@ -117,5 +117,7 @@ while True:
         print()
         if menu1 != "ya":
             break
+    else:
+        print("Tidak ada dalam pilihan")
 
 print("Total Pembayaran Anda: Rp", total_pembayaran)
